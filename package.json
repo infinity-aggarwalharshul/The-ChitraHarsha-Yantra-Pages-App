@@ -1,0 +1,81 @@
+{
+  "name": "@chitraharsha/vpk-yantra",
+  "version": "6.0.0",
+  "description": "The world's first 10 Trillion SQL supported cloud ecosystem with AI-powered innovation search and quantum encryption",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'No build process required for static HTML'",
+    "test": "echo 'Tests will be added in future versions'",
+    "lint": "echo 'Linting will be added in future versions'",
+    "deploy": "echo 'See deployment documentation'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chitraharsha/yantra.git"
+  },
+  "keywords": [
+    "cloud-computing",
+    "artificial-intelligence",
+    "quantum-encryption",
+    "10t-sql",
+    "innovation-search",
+    "patent-analysis",
+    "enterprise-platform",
+    "edge-computing",
+    "react",
+    "tailwind-css",
+    "firebase",
+    "made-in-india"
+  ],
+  "author": {
+    "name": "ChitraHarsha Ventures Pvt Ltd",
+    "email": "enterprise@chitraharsha.com",
+    "url": "https://chitraharsha.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chitraharsha/yantra/issues",
+    "email": "support@chitraharsha.com"
+  },
+  "homepage": "https://github.com/chitraharsha/yantra#readme",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/standalone": "^7.23.0",
+    "serve": "^14.2.0"
+  },
+  "peerDependencies": {
+    "firebase": "^10.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "funding": {
+    "type": "commercial",
+    "url": "https://chitraharsha.com/enterprise"
+  },
+  "config": {
+    "port": 8000,
+    "host": "localhost"
+  },
+  "files": [
+    "index.html",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "SECURITY.md",
+    "CONTRIBUTING.md",
+    "docs/"
+  ]
+}
